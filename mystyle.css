@@ -1,9 +1,10 @@
 /* CSS variables for colours. */
+/* former color for strTitleColor: #96440e */
 :root{
 	--strFontFace:       Geneva,Arial,sans-serif;
 	--strFontSize:       medium;
 	--strTextColor:      #000000;
-	--strTitleColor:     #96440e;
+	--strTitleColor:     #000000;
 
 	--strFuncLightColor: #fefae3;
 	--strFuncShadeColor: #7e7a64;
