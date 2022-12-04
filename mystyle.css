@@ -45,6 +45,7 @@ div.Titles{
 	padding: 0.5em;;
 	text-align: center;
 	color: var(--strTitleColor);
+	background-color: #bf8d5b;
 }
 
 button{
